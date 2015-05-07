@@ -1,3 +1,6 @@
+## Summary 
+This repository is for project 1 of the Coursera.com Exploratory Data Analysis course. It hold my submissions of four plot png flies along with the four R files that generated the plots. Assignment details follow below. 
+
 ## Introduction
 
 This assignment uses data from
